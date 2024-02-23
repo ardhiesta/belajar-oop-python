@@ -1,0 +1,1 @@
+print('hai ini adalah source code bahasa pemrograman Python')
